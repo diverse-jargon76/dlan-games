@@ -1,1 +1,16 @@
-style.css
+.game-box {
+    background: #222;
+    padding: 20px;
+    margin: 20px auto;
+    border-radius: 10px;
+    width: 90%;
+    max-width: 900px;
+    text-align: center;
+}
+
+.game-frame {
+    width: 100%;
+    height: 600px;
+    border: none;
+    border-radius: 10px;
+}
